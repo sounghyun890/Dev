@@ -25,7 +25,6 @@ progress_bar = ttk.Progressbar(frame_progress, maximum=100, variable=p_var)
 progress_bar.pack(fill="x")
 
 #사이즈 정의
-root.geometry("350x200")
 root.resizable(False, False)
 
 root.mainloop()
