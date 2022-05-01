@@ -1,7 +1,5 @@
 from tkinter import *
 
-#안녕하세요
-
 root = Tk()
 root.title("Pines")
 
