@@ -4,7 +4,7 @@ import os
 
 #이름 정의
 root = Tk()
-root.title("Pines 정품인증기")
+root.title("Pines")
 
 #버튼 프레임
 btn_frame = Frame(root)
