@@ -31,6 +31,7 @@ int main() {
                 }
             }
         }
+        //c언어 테스트
         printf("\x1b[H");
         for(k = 0; k < 1761; k++) {
             putchar(k % 80 ? b[k] : 10);
