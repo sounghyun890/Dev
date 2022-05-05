@@ -3,6 +3,6 @@
 #include <stdio.h>
 
 int main(){
-    printf("마루코오님");
+    printf("test\n");
     return 0;
 };
